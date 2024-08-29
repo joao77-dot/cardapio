@@ -1,0 +1,15 @@
+{
+  "name": "projeto-red-burguer",
+  "version": "1.0.0",
+  "description": "Este projeto consiste no desenvolvimento de um site de pedidos de uma para uma hamburgueria fictícia, onde os pedidos são enviados diretamente pelo número do Whatsapp, sem a necessidade de cadastro do cliente. Este projeto foi ministrado pelo Matheus Fraga, dono do Canal Sujeito Programdos.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
